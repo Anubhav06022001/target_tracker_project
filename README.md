@@ -10,7 +10,7 @@ A generic 2D tracking environment built for the Meta OpenEnv Hackathon. This env
 
 1. Clone the repository:
 ```bash
-git clone <link add >
+git clone https://github.com/Anubhav06022001/target_tracker_project.git
 cd target_tracker_project
 ```
 
